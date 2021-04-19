@@ -1,0 +1,90 @@
+token400_program=>1
+token500_nome_2=>1
+token111_;=>1
+token404_var=>3
+token500_a=>3
+token112_:=>3
+token411_real=>3
+token111_;=>3
+token404_var=>4
+token500_b=>4
+token112_:=>4
+token403_integer=>4
+token111_;=>4
+token410_procedure=>5
+token500_nomep=>5
+token107_(=>5
+token500_x=>5
+token112_:=>5
+token411_real=>5
+token108_)=>5
+token111_;=>5
+token404_var=>6
+token500_a=>6
+token109_,=>6
+token500_c=>6
+token112_:=>6
+token403_integer=>6
+token111_;=>6
+token408_begin=>7
+token413_read=>8
+token107_(=>8
+token500_c=>8
+token109_,=>8
+token500_a=>8
+token108_)=>8
+token111_;=>8
+token401_if=>9
+token500_a=>9
+token106_<=>9
+token500_x=>9
+token100_+=>9
+token500_c=>9
+token405_then=>9
+token408_begin=>10
+token500_a=>11
+token203_:==>11
+token500_c=>11
+token100_+=>11
+token500_x=>11
+token111_;=>11
+token412_write=>12
+token107_(=>12
+token500_a=>12
+token108_)=>12
+token111_;=>12
+token409_end=>13
+token402_else=>14
+token500_c=>14
+token203_:==>14
+token500_a=>14
+token100_+=>14
+token500_x=>14
+token111_;=>14
+token409_end=>15
+token111_;=>15
+token408_begin=>16
+token413_read=>17
+token107_(=>17
+token500_b=>17
+token108_)=>17
+token111_;=>17
+token300_45454=>18
+Erro Lexico - mal formação de numero - linha: 19
+Erro Lexico: Caracter {@} nao reconhecido na linguagem - linha: 20
+token408_begin=>21
+token500_nomep=>22
+token107_(=>22
+token500_b=>22
+token108_)=>22
+token111_;=>22
+Erro Lexico: Caracter {#} nao reconhecido na linguagem - linha: 23
+Erro Lexico: Caracter {@} nao reconhecido na linguagem - linha: 23
+Erro Lexico: Caracter {%} nao reconhecido na linguagem - linha: 23
+Erro Lexico: Caracter {#} nao reconhecido na linguagem - linha: 23
+Erro Lexico: Caracter {$} nao reconhecido na linguagem - linha: 23
+Erro Lexico: Caracter {@} nao reconhecido na linguagem - linha: 23
+Erro Lexico: Caracter {#} nao reconhecido na linguagem - linha: 23
+Erro Lexico: Caracter {$} nao reconhecido na linguagem - linha: 23
+token409_end=>24
+token110_.=>24
